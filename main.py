@@ -2295,18 +2295,13 @@ class OrionWindow(QMainWindow):
 
         QMessageBox.information(
 
-
             self,
-
 
             "ORION Camera",
 
-
             "Camera support is not implemented yet. "
 
-
             "We can add real camera access in a later phase.",
-
 
         )
 
@@ -2353,18 +2348,13 @@ class OrionWindow(QMainWindow):
 
             "About ORION",
 
-
             "ORION Personal AI Assistant\n"
-
 
             "Version 0.3\n\n"
 
-
             "PySide6 desktop interface\n"
 
-
             "Local system monitoring\n"
-
 
             "Local commands and Ollama-powered local AI",
 
